@@ -1,4 +1,4 @@
-# My Learning Journey
+# Git Workshop: Mastering the Command Line Interface (CLI)
 
 Estoy aprendiendo a utilizar Git.
 
