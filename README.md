@@ -1,4 +1,5 @@
-# Git Workshop: Mastering the Command Line Interface (CLI)
+
+# Git & GitHub Workshop: Mastering the Command Line Interface (CLI)
 
 Estoy aprendiendo a utilizar Git.
 
