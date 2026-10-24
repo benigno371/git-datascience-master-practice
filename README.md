@@ -1,4 +1,4 @@
-# My Learning Journey
+# Git & GitHub Collaboration Course
 
 Estoy aprendiendo a utilizar Git.
 
